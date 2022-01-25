@@ -14,3 +14,6 @@ starlette==0.12.9
 uvicorn==0.11.2
 websockets==8.1
 wrapt==1.11.2
+
+
+# lazy-object-proxy, six, wrapt, astroid, Click, colorama, pydantic, starlette, fastapi, gunicorn, h11, isort, mccabe, pylint, websockets, uvloop, httptools, uvicorn
